@@ -7,8 +7,8 @@ License:	GPL
 Group:		Applications/News
 Source0:	http://yukidoke.org/~mako/projects/aub/download/%{name}-%{version}.tar.gz
 URL:		http://yukidoke.org/~mako/projects/aub/
-BuildRequires:	rpm-perlprov
 BuildRequires:	perl >= 5.6
+BuildRequires:	rpm-perlprov
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
@@ -40,4 +40,4 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %attr(755,root,root) %{_bindir}/aub
-%{_mandir}/man1/*.1.gz
+%{_mandir}/man1/*.1*
