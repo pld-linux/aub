@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/News
 Source0:	http://yukidoke.org/~mako/projects/aub/download/%{name}-%{version}.tar.gz
+# Source0-md5:	ddbf57eb340199bca978569017061fcb
 URL:		http://yukidoke.org/~mako/projects/aub/
 BuildRequires:	perl >= 5.6
 BuildRequires:	rpm-perlprov
