@@ -1,11 +1,11 @@
 Summary:	Assemble Usenet Binaries
 Summary(pl):	Narzêdzie do ¶ci±gania binariów z usenetu
 Name:		aub
-Version:	2.1.2
+Version:	2.1.3
 Release:	1
 License:	GPL
 Group:		Applications/News
-Source0:	http://yukidoke.org/~mako/projects/aub/download/aub-2.1.2.tar.gz
+Source0:	http://yukidoke.org/~mako/projects/aub/download/%{name}-%{version}.tar.gz
 URL:		http://yukidoke.org/~mako/projects/aub/
 BuildRequires:	rpm-perlprov
 BuildRequires:	perl >= 5.6
