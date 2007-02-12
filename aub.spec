@@ -1,5 +1,5 @@
 Summary:	Assemble Usenet Binaries
-Summary(pl):	Narzêdzie do ¶ci±gania binariów z usenetu
+Summary(pl.UTF-8):   NarzÄ™dzie do Å›ciÄ…gania binariÃ³w z usenetu
 Name:		aub
 Version:	2.1.3
 Release:	3
@@ -18,10 +18,10 @@ and decode them automatically. It is simple, well documented, and easy
 to use and configure. It handles multi-part postings, and both
 uuencoded and base64 encodings.
 
-%description -l pl
-aub jest programem w Perlu do ¶ci±gania artyku³ów z grup usenetowych i
+%description -l pl.UTF-8
+aub jest programem w Perlu do Å›ciÄ…gania artykuÅ‚Ã³w z grup usenetowych i
 ich automatycznego dekodowania. Jest prosty, dobrze udokumentowany,
-³atwy w u¿yciu i konfiguracji. Obs³uguje przesy³ki wieloczê¶ciowe,
+Å‚atwy w uÅ¼yciu i konfiguracji. ObsÅ‚uguje przesyÅ‚ki wieloczÄ™Å›ciowe,
 zakodowane uuencode lub base64.
 
 %prep
