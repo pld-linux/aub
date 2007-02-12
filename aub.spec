@@ -1,5 +1,5 @@
 Summary:	Assemble Usenet Binaries
-Summary(pl.UTF-8):   Narzędzie do ściągania binariów z usenetu
+Summary(pl.UTF-8):	Narzędzie do ściągania binariów z usenetu
 Name:		aub
 Version:	2.1.3
 Release:	3
